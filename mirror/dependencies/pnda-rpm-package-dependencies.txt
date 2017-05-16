@@ -22,6 +22,7 @@ httpd-2.4.6-45.el7
 httpd-tools-2.4.6-45.el7
 libffi-devel-3.0.13-18.el7
 libgsasl-devel-1.8.0-8.el7
+libtirpc-devel-0.2.4-0.8.el7
 mailcap-2.1.41-2.el7
 mysql-community-server-5.5.54-2.el7
 MySQL-python-1.2.5-1.el7
