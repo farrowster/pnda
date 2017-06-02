@@ -34,6 +34,7 @@ python34-devel-3.4.5-4.el7
 python34-pip-8.1.2-5.el7
 python-carbon-0.9.15-6.el7
 python-devel-2.7.5-48.el7
+redhat-lsb-4.1-27.el7
 redis-3.2.3-1.el7
 salt-master-2015.8.11-1.el7
 salt-minion-2015.8.11-1.el7
@@ -43,3 +44,4 @@ unzip-6.0-16.el7
 uwsgi-2.0.14-6.el7
 wget-1.14-13.el7
 xfsprogs-4.5.0-9.el7_3
+zip-3.0-11.el7
